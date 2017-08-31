@@ -25,7 +25,7 @@ SECRET_KEY = '+pl)iv-gaxv3jhn%tnu&8))-7zh8bqw_6*0dsf2+#bj8-1c#+j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["skylogistik.pythonanywhere.com"]
 
 
 # Application definition
